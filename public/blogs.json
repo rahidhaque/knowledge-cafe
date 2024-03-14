@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Mysteries of the Quantum Realm",
+        "author_name": "Dr. Evelyn Parker",
+        "cover_img": "https://i.ibb.co/VL4LQgP/pexels-ivan-samkov-4240494.jpg",
+        "author_img": "https://i.ibb.co/ck9Ckmx/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+        "posted_date": "2024-03-14",
+        "reading_time": 12,
+        "hashtags": [
+            "#QuantumPhysics",
+            "#Science",
+            "#Mystery"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Secrets of the Lost Civilization",
+        "author_name": "Professor Emma Stones",
+        "cover_img": "https://i.ibb.co/SQrqYdR/pexels-george-milton-6954220.jpg",
+        "author_img": "https://i.ibb.co/0tRBMfD/pexels-ono-kosuki-6000065.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": 15,
+        "hashtags": [
+            "#Archaeology",
+            "#History",
+            "#Discovery"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "The Art of Mindfulness",
+        "author_name": "Sarah Johnson",
+        "cover_img": "https://i.ibb.co/zPffq6G/pexels-liza-summer-6347919.jpg",
+        "author_img": "https://i.ibb.co/m6Nkh87/portrait-student-park.jpg",
+        "posted_date": "2024-03-10",
+        "reading_time": 8,
+        "hashtags": [
+            "#Mindfulness",
+            "#Meditation",
+            "#Wellness"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Exploring the Depths of the Ocean",
+        "author_name": "Dr. David Rodriguez",
+        "cover_img": "https://i.ibb.co/yYFpyFX/pexels-cottonbro-studio-5076520.jpg",
+        "author_img": "https://i.ibb.co/D7RfLSY/brooke-cagle-w-KOKid-NT14w-unsplash.jpg",
+        "posted_date": "2024-03-08",
+        "reading_time": 20,
+        "hashtags": [
+            "#Oceanography",
+            "#MarineLife",
+            "#Exploration"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "The Power of Positive Thinking",
+        "author_name": "David Raya",
+        "cover_img": "https://i.ibb.co/RN4hKsY/pexels-canva-studio-3194523-1.jpg",
+        "author_img": "https://i.ibb.co/bQC8KZk/foto-sushi-6anudmp-ILw4-unsplash.jpg",
+        "posted_date": "2024-03-06",
+        "reading_time": 10,
+        "hashtags": [
+            "#Positivity",
+            "#SelfHelp",
+            "#Motivation"
+        ]
+    }
+]
